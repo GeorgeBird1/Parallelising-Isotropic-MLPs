@@ -62,6 +62,14 @@ If you use this code, please cite:
 
 George Bird (2026). *Parallelising Matrix-Products in Isotropic Multilayer Perceptrons*. 18th Annual Workshop on Optimization for Machine Learning (OPT2026).
 
+@inproceedings{
+  bird2026parallelising,
+  title={Parallelising Matrix-Products in Isotropic Multilayer Perceptrons},
+  author={George Bird},
+  booktitle={OPT 2026: Optimization for Machine Learning (NeurIPS 2026 Workshop)},
+  year={2026},
+  url={https://openreview.net/forum?id=z3N0ccKOi0}
+}
 
 
 # Model Implementation Variants
